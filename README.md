@@ -34,12 +34,12 @@ using time-series features.
 
 ## Results
 
-  Model               MAE
-  ------------------- --------
-  Linear Regression   \~1841
-  Random Forest       \~19.7
-  XGBoost             \~501
-  RF + Mobility       \~586
+| Model | MAE |
+|------|-----|
+| Linear Regression | ~1841 |
+| Random Forest | ~19.7 |
+| XGBoost | ~501 |
+| Random Forest + Mobility | ~586 |
 
 ## Key Insights
 

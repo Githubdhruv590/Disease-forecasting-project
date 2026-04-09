@@ -10,7 +10,7 @@ using time-series features.
 - COVID-19 dataset (Our World in Data)
 - Focused on India
 - Google Mobility Dataset (used for exploratory analysis to capture behavioral movement trends)
-Note: Datasets are not included due to size limitations. Please download them separately.
+- Note: Datasets are not included due to size limitations. Please download them separately.
 ## Methodology
 
 ### Data Preprocessing

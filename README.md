@@ -10,7 +10,7 @@ using time-series features.
 - COVID-19 dataset (Our World in Data)
 - Focused on India
 - Google Mobility Dataset (used for exploratory analysis to capture behavioral movement trends)
-
+Note: Datasets are not included due to size limitations. Please download them separately.
 ## Methodology
 
 ### Data Preprocessing
@@ -52,6 +52,14 @@ using time-series features.
 -   External factors not included
 -   Possible overfitting due to lag features
 
+##  How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the notebook:
+   notebooks/eda.ipynb   
 ## Conclusion
 This project demonstrates that historical case trends are the most reliable predictors for disease forecasting. Lag-based features such as previous day and weekly case counts capture strong temporal dependencies in the data.
 
